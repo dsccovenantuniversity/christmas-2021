@@ -1,0 +1,7 @@
+SO I plan to pick up a bit of golang for backend dev. 
+
+I am still looking for tutorials that will help me with that.
+
+I also plan to learn a bit more about algorithm and data structures and if i have time also go deeper into kubernetes.
+
+
