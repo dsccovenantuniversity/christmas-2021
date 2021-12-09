@@ -1,0 +1,6 @@
+Goals:
+- Making a bot for telegram that utilises the inline API.
+- Automating calculations from courses during the semester using python.
+- Arduino / Embedded Systems project ---???
+
+===== Goals are subject to change ======
