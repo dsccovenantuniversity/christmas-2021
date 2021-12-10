@@ -1,0 +1,7 @@
+By January 5th 2022 I would have:
+    - Completed "Practical Python and Open CV" by Adrian RoseBrock
+    - Understood Google's Workspace API enough to be able to set up a project
+    - Be at least 50% away from 5 KYU on codewars
+    - Finished at least 2 of Paul's letters 
+
+So help me GOD
